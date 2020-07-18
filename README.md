@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-### 前端博客
-[博客](https://blog.youngzk.com/)
+🔭 [他的博客](https://blog.youngzk.com/) : https://blog.youngzk.com
+
+🔭 [前端脚手架] 
+```bash
+npm i @muniz/cli
+```
 
 
 <!--
