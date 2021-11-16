@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 [他的博客](https://blog.youngzk.com/) : https://blog.youngzk.com
+🔭 [他的博客](https://1160007652.github.io) : https://1160007652.github.io
 
 🔭 [前端脚手架] 
 ```bash
